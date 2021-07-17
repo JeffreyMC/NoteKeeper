@@ -1,4 +1,4 @@
-package com.dafotr.notekeeper;
+package com.jamc.note_keeper;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.dafotr.notekeeper;
+package com.jamc.note_keeper;
 
 import android.os.Parcel;
 import android.os.Parcelable;
